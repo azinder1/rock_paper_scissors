@@ -1,0 +1,12 @@
+img {
+  width: 400px;
+}
+body {
+  color: darkblue;
+  font-family: Arial;
+  font-size: 2em;
+}
+#output {
+  font-weight: bold;
+  color: darkred;
+}
